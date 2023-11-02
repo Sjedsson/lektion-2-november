@@ -4,6 +4,8 @@
 
 Async Bootcamp: https://gist.github.com/zocom-christoffer-wallenberg/7e749eb5535a806c5666241fecd3e4f4
 
+**Valfri övning på API bootcamp som code review nästa tisdag**
+
 API bootcamp: https://gist.github.com/zocom-christoffer-wallenberg/00b53868a8192c9c5b4a7a36df0a472a
 
 ## Artiklar
